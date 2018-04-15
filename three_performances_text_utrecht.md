@@ -3,7 +3,13 @@
 Mathias Maschat and Christopher Williams
 Adaptation for Notation Cultures Conference
 
-## ► Play
+## Intro (CW)
+
+- personal info
+- context of book chapter
+- changes for today
+
+## ► Play (MM)
 
 Bearing in mind that there is no improvisation without the live, we— musicians and researchers with interests in improvisation, performativity and notation—came together to create a unique musical performance. Even if the here and now is nourished from the past and from future expectations, live- ness is the primal paradigm of every musical improvisation, characterised by archetypal elements such as temporal continuity, real time action and reaction, presence, originality, immediacy, intimacy, indeterminacy, eventness, existence in the moment, and so forth. As Saladin and Guionnet write:
 
